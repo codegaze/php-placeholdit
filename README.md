@@ -1,8 +1,10 @@
 ### Introduction
 
-If you are prototyping websites in PHP this is a simple class you need. 
+If you are prototyping websites in PHP this is a simple script you need. 
 
-You can create simple placeholders from [placehold.it](http://placehold.it) with random flat background colors from [http://designmodo.github.io/Flat-UI/](http://designmodo.github.io/Flat-UI/).
+Create simple image placeholders from [placehold.it](http://placehold.it) with random flat background colors from [http://designmodo.github.io/Flat-UI/](http://designmodo.github.io/Flat-UI/). 
+
+There is absense of responsive versions because I just wanted something easy and fast to use.
 
 ### Installation
 
